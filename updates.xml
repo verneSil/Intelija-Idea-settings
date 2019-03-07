@@ -1,0 +1,21 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-183.5912.21" />
+    <option name="LAST_TIME_CHECKED" value="1551933431648" />
+    <pluginHosts>
+      <item value="http://s3plus.vip.sankuai.com/v1/mss_b268534375c541d59067b12741aac5ff/xlab/fusion/plugins.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

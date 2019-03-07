@@ -1,0 +1,21 @@
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </SqlCodeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

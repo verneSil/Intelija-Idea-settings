@@ -1,0 +1,3 @@
+<application>
+  <component name="GSFormatSetting" setFormat="/**&#10; * 设置 #{bare_field_comment}&#10; * &#10; * @param ${field.name} #{bare_field_comment}  &#10; */ " getFormat="/**&#10; * 获取 #{bare_field_comment}&#10; * &#10; * @return ${field.name} #{bare_field_comment}  &#10; */ " />
+</application>

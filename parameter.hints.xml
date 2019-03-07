@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="sun.jvm.hotspot.utilities.Assert.that(test,message)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

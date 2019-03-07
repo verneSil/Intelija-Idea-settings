@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Eclipse Code Formatter donation" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>

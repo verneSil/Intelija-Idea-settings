@@ -1,0 +1,117 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.8.0" last-modified="1521614793000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.8.0/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BackgroundImagesFolder" value="$USER_HOME$/Documents/background" />
+    <property name="BackgroundImagesInterval" value="1000" />
+    <property name="BackgroundImagesKeepSameImage" value="true" />
+    <property name="BackgroundImagesRadioButton" value="idea.background.frame" />
+    <property name="ColorChooser.RecentColors" value="192-1-4-255,,,127-137-3-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60751563" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6903766" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConsoleQuickFilterPanel-expression" value="" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="Pastel" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DiffRequestProcessor.BottomComponentSplitter" value="0.79227054" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.16406891" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.19646366" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.24479803" />
+    <property name="GrepConsole.ProfileDetail" value="211" />
+    <property name="InstalledPluginsSearchHistory" value="github&#10;vim&#10;AllGetter&#10;generate&#10;Genera" />
+    <property name="JUnit.Splitter.Proportion" value="0.21081376" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="JUnitSupport.sortTestsByDuration" value="true" />
+    <property name="KEYMAP" value="generate&#10;show&#10;execute&#10;super&#10;use" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntries&lt;Generic SQL&gt;" value="false" />
+    <property name="LayoutCode.rearrangeEntries&lt;Generic&gt;" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.1103144" />
+    <property name="LiveContextsPanel[1]" value="0.12539186" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="fusion&#10;fus&#10;mater&#10;mate&#10;mat" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RunConfigurable.dividerProportion" value="0.23686723" />
+    <property name="SearchEveryWhereHistory" value="getFirstRequest&#10;increaseStockByBillFeedback&#10;U&#10;setStockAllocationOutQtyAndOutStockInfo&#10;getOriginSkuList" />
+    <property name="SettingsSearchHistory" value="github&#10;vim&#10;Rainbow Brackets&#10;Plugin&#10;sql" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SonarLint.analyzeAllFiles.hideWarning" value="true" />
+    <property name="SpringBeansModulesPanel[0]" value="0.7452514" />
+    <property name="SpringBeansModulesPanel[1]" value="0.1216545" />
+    <property name="SpringBeansModulesPanel[2]" value="0.22121423" />
+    <property name="SpringBeansModulesPanel[3]" value="0.16064256" />
+    <property name="SpringMvcController[0]" value="0.10928962" />
+    <property name="SpringMvcModulesPanel[0]" value="0.2916358" />
+    <property name="SpringMvcModulesPanel[1]" value="0.45768026" />
+    <property name="SpringMvcModulesPanel[2]" value="0.3272727" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.10840108" />
+    <property name="TrendingPluginsSearchHistory" value="generate-set&#10;generateSet&#10;setter&#10;getter&#10;generator" />
+    <property name="Vcs.Log.Text.Filter.History" value="统一品&#10;channel_id&#10;saas&#10;warehouse_area_set&#10;areaSet" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.4077472" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="android-component-compatibility-check" value="1534908975086" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.gist.reindex.count" value="78824" />
+    <property name="file.history.selection.diff.splitter.proportion" value="0.7618148" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="idea.background.editor" value="$USER_HOME$/Documents/background/骷髅.jpg" />
+    <property name="ideavim.statistics.timestamp" value="1551933431894" />
+    <property name="installed.kotlin.plugin.version" value="1.3.10-release-IJ2018.3-1" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="994" />
+    <property name="last.imported.location" value="$USER_HOME$/Workspaces/GitHub/study-example/SortAlgorithm" />
+    <property name="lastTip" value="2" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="naviOpenStatus" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Pictures/chunwu/春物.jpeg" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="scala.last.updated" value="1540199377723" />
+    <property name="selected.color.option.type" value="JS.FUNCTION_ARROW" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SQL" value="Queries" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.31745183" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.51368874" />
+    <property name="vcs.log.details.splitter.proportion" value="0.76829267" />
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="false" />
+</application>

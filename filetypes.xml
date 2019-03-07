@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="教程链接" type="PLAIN_TEXT" />
+      <mapping pattern="V2018103002__addStockInfoFreeQty" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

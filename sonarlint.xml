@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S106" />
+        <option value="squid:S1854" />
+        <option value="squid:S3958" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.sankuai.com" />
+          <token>dfc8dfc8df99df9adf93df9ddf9fdf9edf9bdf98dfcbdf93df9edf9bdf9cdfcedfcfdf93df9adf99dfc9df9adfccdf92dfcfdf9bdfcedfccdfcfdfc9dfcedfc9df9bdf99df93dfcbdfcbdf99df9ddf9e</token>
+          <option name="name" value="sonar.sankuai.com" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
