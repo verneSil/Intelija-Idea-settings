@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 * @author: zuoweichen
 * @date: ${DATE}
 * @time: ${TIME}
-* Copyright (C) 2018 MTDP
+* Copyright (C) 2018 
 * All rights reserved                                                  
 */
 
