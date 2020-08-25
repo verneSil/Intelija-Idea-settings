@@ -1,11 +1,4 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\bTODO add by zuoweichen\b.*" />
     <pattern case-sensitive="true" pattern="\bNOTE add by zuoweichen\b.*" />
