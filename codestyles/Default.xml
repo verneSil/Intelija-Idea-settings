@@ -1,8 +1,99 @@
 <code_scheme name="Default" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <DB2CodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </HSQLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="INSERT_INTO_NL" value="1" />
     <option name="INSERT_OPENING" value="4" />
@@ -13,7 +104,70 @@
     <option name="WHERE_EL_LINE" value="101" />
     <option name="ORDER_EL_LINE" value="101" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_CONTENT" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="ORDER_EL_LINE" value="101" />
+  </SybaseCodeStyleSettings>
+  <codeStyleSettings language="DB2">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Derby">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="H2">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HSQLDB">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Oracle">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQLite">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Sybase">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TSQL">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
