@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="todo" value="// TODO add by zuoweichen $date$ $time$ " description="add todo" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="todo" value="// TODO add by Earendil $date$ $time$ " description="add todo" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
@@ -9,9 +9,30 @@
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
-  <template name="note" value="// NOTE add by zuoweichen $date$ $time$ " description="note" toReformat="false" toShortenFQNames="true">
+  <template name="note" value="// NOTE add by Earendil $date$ $time$ " description="note" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo1" value="// TODOT1 add by Earendil $date$ $todoT1$ " description="todo T1" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="todoT1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo2" value="// TODOT2 add by Earendil $date$ $todoT1$ " description="todo T2" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="todoT1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo3" value="// TODOT3 add by Earendil $date$ $todoT3$ " description="todo T3" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="todoT3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

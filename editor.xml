@@ -1,6 +1,21 @@
 <application>
   <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\bTODO add by zuoweichen\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT1 add by Earendil\b.*">
+      <option name="FOREGROUND" value="c0020a" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
     <pattern case-sensitive="true" pattern="\bNOTE add by zuoweichen\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT2 add by Earendil\b.*">
+      <option name="FOREGROUND" value="bb07c0" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT3 add by Earendil\b.*">
+      <option name="FOREGROUND" value="c07c00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern case-sensitive="true" pattern="\bTODO add by Earendil\b.*" />
   </component>
 </application>
