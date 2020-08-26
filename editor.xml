@@ -5,7 +5,7 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
-    <pattern case-sensitive="true" pattern="\bNOTE add by zuoweichen\b.*" />
+    <pattern case-sensitive="true" pattern="\bNOTE add by Earendil\b.*" />
     <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT2 add by Earendil\b.*">
       <option name="FOREGROUND" value="bb07c0" />
       <option name="FONT_TYPE" value="2" />
