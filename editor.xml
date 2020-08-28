@@ -25,7 +25,7 @@
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
     <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT3 add by Earendil\b.*">
-      <option name="FOREGROUND" value="c07c00" />
+      <option name="FOREGROUND" value="7dc000" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
