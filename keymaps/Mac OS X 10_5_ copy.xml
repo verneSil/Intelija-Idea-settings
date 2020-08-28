@@ -51,6 +51,10 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -143,6 +147,9 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="ViewMembersInNavigationBar">
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="ViewSource" />
 </keymap>
