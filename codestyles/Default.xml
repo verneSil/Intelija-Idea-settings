@@ -41,6 +41,7 @@
     <option name="ORDER_EL_LINE" value="101" />
   </HSQLCodeStyleSettings>
   <JavaCodeStyleSettings>
+    <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
@@ -135,6 +136,13 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="THROWS_LIST_WRAP" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
     <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="MySQL">
