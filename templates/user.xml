@@ -37,4 +37,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="comm" value="comment by Earendil :" description="添加注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
