@@ -35,5 +35,12 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\berror ,need to fix immediately\b.*">
+      <option name="FOREGROUND" value="c0000b" />
+      <option name="BACKGROUND" value="410d" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="c000ac" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
   </component>
 </application>
