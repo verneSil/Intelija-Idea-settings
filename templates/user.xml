@@ -48,4 +48,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="ifnu" value="if (null == $NULL_ABLE_ELEMENT$) {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="NULL_ABLE_ELEMENT" expression="firstWord(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
