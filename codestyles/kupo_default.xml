@@ -1,4 +1,4 @@
-<code_scheme name="Default copy" version="173">
+<code_scheme name="kupo_default" version="173">
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <DB2CodeStyleSettings version="2">
     <option name="INSERT_INTO_NL" value="1" />
@@ -165,7 +165,7 @@
     <option name="THROWS_LIST_WRAP" value="1" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="1" />
