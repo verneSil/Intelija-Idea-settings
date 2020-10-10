@@ -16,7 +16,7 @@
     <mask>*.pom</mask>
     <mask>*Dto.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
