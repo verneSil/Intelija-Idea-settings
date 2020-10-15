@@ -1,7 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <includes_templates>
-      <template name="java of File Header.java" reformat="true" live-template-enabled="true" />
-    </includes_templates>
+    <default_templates>
+      <template name="generatorConfig.xml" reformat="true" live-template-enabled="true" />
+    </default_templates>
   </component>
 </application>
