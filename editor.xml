@@ -12,4 +12,18 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\b(TODOT1 add by Earendil)\b.*">
+      <option name="FOREGROUND" value="c00400" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\b(TODOT2 add by Earendil)\b.*">
+      <option name="FOREGROUND" value="c0638a" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+    </pattern>
+    <pattern case-sensitive="true" pattern="\b(TODOT3 add by Earendil)\b.*" />
+  </component>
 </application>
