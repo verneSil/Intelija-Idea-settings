@@ -3,44 +3,13 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_FAMILY" value="Menlo" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.java;" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT1 add by Earendil\b.*">
-      <option name="FOREGROUND" value="c0020a" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
-    <pattern case-sensitive="true" pattern="\bNOTE add by Earendil\b.*" />
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT2 add by Earendil\b.*">
-      <option name="FOREGROUND" value="bb07c0" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bTODOT3 add by Earendil\b.*">
-      <option name="FOREGROUND" value="7dc000" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
-    <pattern case-sensitive="true" pattern="\bTODO add by Earendil\b.*" />
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\bcomment by Earendil\b.*">
-      <option name="FOREGROUND" value="c07300" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="\berror ,need to fix immediately\b.*">
-      <option name="FOREGROUND" value="c0000b" />
-      <option name="BACKGROUND" value="410d" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_COLOR" value="c000ac" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
 </application>
