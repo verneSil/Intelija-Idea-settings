@@ -1,6 +1,9 @@
 <application>
   <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="compactTreeIndents" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
