@@ -39,7 +39,9 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorSplitLine" />
-  <action id="EditorToggleCase" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl meta help" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="meta k" />
