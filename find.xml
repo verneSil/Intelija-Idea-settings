@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../app/biz/service-impl/src/main/java/com/kucoin/cooperation/inner/InnerCooperationReadController.java [cooperation-biz-service-impl]'" />
-    <option name="defaultScopeName" value="File '.../app/biz/service-impl/src/main/java/com/kucoin/cooperation/inner/InnerCooperationReadController.java [cooperation-biz-service-impl]'" />
+    <option name="customScope" value="Module 'cooperation-core-service'" />
+    <option name="defaultScopeName" value="Module 'cooperation-core-service'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/biz/service-impl/src/main/java/com/kucoin/cooperation/inner/InnerCooperationReadController.java [cooperation-biz-service-impl]'" />
+    <option name="SEARCH_SCOPE" value="Module 'cooperation-core-service'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
