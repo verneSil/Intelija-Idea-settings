@@ -43,7 +43,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="error" value="error ,need to fix immediately" description="error" toReformat="false" toShortenFQNames="true">
+  <template name="error" value="log.error(&quot;$END$&quot;);" description="error" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -62,6 +62,11 @@
   </template>
   <template name="ifbl" value="if ($END$StringUtils.isBlank($STRING_VALUE$)) {&#10;    &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="STRING_VALUE" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="info" value="log.info(&quot;$END$&quot;);" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
