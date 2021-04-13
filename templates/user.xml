@@ -66,7 +66,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="info" value="log.info(&quot;$END$&quot;);" toReformat="false" toShortenFQNames="true">
+  <template name="info" value="log.info(&quot;$END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
